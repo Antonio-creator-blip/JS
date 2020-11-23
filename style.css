@@ -1,0 +1,29 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    place-items: center;
+}
+
+div {
+    display: grid;
+    place-items: center;
+}
+
+button {
+    margin-top: 20px;
+}
+
+#cliccami {
+    background-color: rgba(0, 256, 0, 0.5);
+}
+
+#reset {
+    background-color: rgba(256, 0, 0, 0.6);
+}
+
+#tornaIndietro {
+    background-color: rgba(0, 256, 256, 0.5);
+}
